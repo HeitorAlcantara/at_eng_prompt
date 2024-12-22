@@ -1,0 +1,14 @@
+pandas
+requests
+fastparquet
+langchain-google-genai
+google-generativeai
+langchain
+langchain_community
+python-dotenv
+matplotlib
+tqdm
+seaborn
+transformers
+torch
+streamlit

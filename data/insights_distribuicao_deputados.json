@@ -1,0 +1,41 @@
+{
+    "analysis": {
+        "overall_distribution": "The distribution of seats in the Câmara dos Deputados reveals a fragmented political landscape, with no single party holding a clear majority.  The largest party, PL, holds only 18.1% of the seats,  significantly less than a majority. This lack of a dominant party necessitates coalition building to pass legislation.",
+        "major_parties_influence": [
+            {
+                "party": "PL",
+                "percentage": 18.1,
+                "influence": "Despite being the largest party, the PL's 18.1% share indicates a need for alliances to achieve legislative goals. Their ability to control the agenda and pass legislation depends heavily on their capacity to negotiate and build coalitions with other parties."
+            },
+            {
+                "party": "PT",
+                "percentage": 13.3,
+                "influence": "The PT, with 13.3% of the seats, is a significant opposition force.  Their ability to influence legislation will depend on their capacity to forge alliances with other opposition parties or moderate members within the governing coalition."
+            },
+            {
+                "party": "UNIAO",
+                "percentage": 11.5,
+                "influence": "União Brasil, with 11.5% of the seats, is a large party that could play a kingmaker role, potentially influencing the government's legislative agenda by deciding whether to support or oppose specific bills."
+            },
+            {
+                "party": "PP, PSD, REPUBLICANOS, MDB",
+                "percentage": "Between 8.6% and 9.7%",
+                "influence": "PP, PSD, Republicanos, and MDB, each holding between 8.6% and 9.7% of the seats, represent significant blocs with the potential to heavily influence the government's legislative agenda depending on their coalition choices.  Their support will be crucial for the passage of most legislation."
+            }
+        ],
+        "implications_for_camara": [
+            {
+                "aspect": "Legislative Process",
+                "impact": "The fragmented nature of the Câmara requires extensive negotiation and compromise to pass legislation.  No single party can dictate the legislative agenda, leading to potentially slower and more complex processes. The formation and stability of governing coalitions will be crucial for legislative success."
+            },
+            {
+                "aspect": "Government Stability",
+                "impact": "The lack of a clear majority for any single party makes the government vulnerable to legislative challenges. The government's ability to maintain its agenda and pass key legislation will depend heavily on its capacity to maintain and manage its coalition partners.  Potential shifts in alliances could lead to instability."
+            },
+            {
+                "aspect": "Policy Outcomes",
+                "impact": "The need for coalition building can lead to policy outcomes that reflect a compromise among different interests.  However, it also risks producing diluted policies that fail to fully address critical issues. The influence of specific interest groups and lobbyists could be amplified in this environment."
+            }
+        ]
+    }
+}
